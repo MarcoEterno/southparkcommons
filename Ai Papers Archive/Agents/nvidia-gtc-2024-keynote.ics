@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+PRODID:-//AddEvent Inc//AddEvent.com v1.7//EN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:STANDARD
+DTSTART:20241103T010000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20240310T030000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20240318T140116Z
+STATUS:CONFIRMED
+UID:1710770476addeventcom
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20240318T130000
+DTEND;TZID=America/Los_Angeles:20240318T150000
+SUMMARY:NVIDIA GTC 2024 Keynote
+DESCRIPTION:NVIDIA GTC KEYNOTE \nJensen Huang | NVIDIA | Founder and CEO   \n\nRegister https://www.nvidia.com/gtc/ to join us live at the SAP Center in San Jose\, CA or virtually https://www.nvidia.com/gtc/keynote/ (no registration required for virtual attendance).
+X-ALT-DESC;FMTTYPE=text/html:NVIDIA GTC KEYNOTE <br />Jensen Huang | NVIDIA | Founder and CEO   <br><br><a href="https://www.nvidia.com/gtc/">Register</a> to join us live at the SAP Center in San Jose, CA or <a href="https://www.nvidia.com/gtc/keynote/">virtually</a> (no registration required for virtual attendance).
+LOCATION:525 W Santa Clara St.\, San Jose\, CA 95113
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
