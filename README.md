@@ -10,7 +10,7 @@ Below a list of my most relevant projects. If you are interested, check the dedi
 4) **Multi-digit Classifier**: I developed a simple image classifier, that is able to recognize multi-digits numbers. The objective of the project was to familiarize myself with the PyTorch machine learning framework, understand the challanges of building hands-on, and learn the theory behind neural networks.
 For this project, I also created the dataset using data augmentation tecniques on existing datasets.
 
-5) **An architecture for Artificial General Intelligence: the Frameformer** The Frameformer is an architecture that leverages LLM to build a generally intelligent agent that learns new skills through the scientific process. In the related folder you will find:
+5) **An architecture for Artificial General Intelligence: the Frameformer**. An architecture that leverages LLM to build a generally intelligent agent that learns new skills through the scientific process. In the related folder you will find:
     - The slides of the kick-off meeting of the colaboration between Paolo and I on one side, and the [Indigo.ai](https://indigo.ai/en/) team on the other side. 
     - The initial impementation of the python code for the architecture.
 The project was put on hold due to [this](https://arxiv.org/abs/2401.10020) paper from february 2024 from Meta, that documents the limitations of self-improovements capabilities on current day language models. We thus decided to wait for the next generation of model to address this issue.
