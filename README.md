@@ -10,8 +10,6 @@ Below is a list of my most relevant projects. If you are interested, check the d
     - The initial implementation of the python code for the architecture.
 The project was put on hold due to [this](https://arxiv.org/abs/2401.10020) paper from february 2024 from Meta, that documents the limitations of self-improvements capabilities on current day language models. We thus decided to wait for the next generation of model to address this issue.
 
-The model is trained on a large corpus of text data and is able to generate text sequences. The model is trained using a causal language modeling objective.
-
 4) **Olivia startup**: I am the technical co-founder of a startup that leverages predictive algorithm in the food industry to increase profits and reduce food waste. I wrote the first version of the predictive algorithm (that unfortunately i can not share due to confidentiality reasons). To discover more on Olivia, visit the [website](https://www.olivia-software.com/en)
 
 5) **[AI papers archive](https://github.com/MarcoEterno/ai-archive)**: In order to familiarize myself with the topic of Artificial intelligence, I attended classes from The top U.S. universities, and read 200+ academic papers. While i gathered this information, I thought of the value of being able to find the most consequential papers with just one click, instead of searching the web and having to understand what is important and what isn't. So I decided to make my papers archive public, and it is now used by my collaborators in the field.
