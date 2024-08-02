@@ -1,5 +1,5 @@
 # List of some relevant projects
-Below a list of my most relevant projects. If you are interested, check the dedicated repositories:
+Below is a list of my most relevant projects. If you are interested, check the dedicated repositories:
 
 1) **[Large Concept Models](https://github.com/MarcoEterno/large-concept-model)**: Improving llm performance by using AlphaZero-like Monte Carlo tree search in the space of possible concepts with JEPA-type architectures.
 
