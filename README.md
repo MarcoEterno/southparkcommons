@@ -1,5 +1,11 @@
 # List of some relevant projects
-Below a list of my most relevant projects. If you are interested, check the dedicated folders:
+Below a list of my most relevant projects. If you are interested, check the dedicated repositories:
+
+1) **[Large Concept Models](https://github.com/MarcoEterno/large-concept-model)**: 
+
+2) **[GPT2](https://github.com/MarcoEterno/gpt2)**: A minimal working implementation of a decoder only transformer model for text generation. The core architecture is based on the GPT-2 model by OpenAI the first model that demonstrated few shot learning capabilities.
+
+The model is trained on a large corpus of text data and is able to generate text sequences. The model is trained using a causal language modeling objective.
 
 1) **[Covid-19 testing improvement](https://github.com/MarcoEterno/covid-19-testing-improvement)**: During the height of the coronavirus pandemic in march 2020, I invented a procedure to speed up covid testing by a factor of 5x, using machinery already present in every hospital. So I started a collaboration with professors and researchers from 3 different universities and one hospital, in order to test my procedure in the Lab. The protocol worked successfully, and it is now used as a standard testing procedure all over the world. In the related folder, you will find both the technical overview of the method, as well as some presentations that give an idea of the inner workings of the project.
 
